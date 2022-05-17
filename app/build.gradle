@@ -74,13 +74,13 @@ dependencies {
     implementation("com.google.android.gms:play-services-mlkit-text-recognition:18.0.0")
 
 //    text to summmary
-    implementation 'com.github.shubham0204:Text2Summary-Android:alpha-05'
+//    implementation 'com.github.shubham0204:Text2Summary-Android:alpha-05'
 
 //  edmodo
-    implementation 'com.theartofdev.edmodo:android-image-cropper:2.8.0'
+//    implementation 'com.theartofdev.edmodo:android-image-cropper:2.8.0'
 
 //    weather
-    implementation 'com.github.KwabenBerko:OpenWeatherMap-Android-Library:2.1.0'
+//    implementation 'com.github.KwabenBerko:OpenWeatherMap-Android-Library:2.1.0'
 
 
 }
